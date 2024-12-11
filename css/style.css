@@ -22,33 +22,9 @@ body{
 
 @keyframes loading-progress{
     0%{width: 0; opacity: 0;}
-    10%{width: 15%; opacity: 1;}
-    25%{width: 25%;}
-    50%{width: 50%;}
-    75%{width: 75%;}
-    76%{width: 76%;}
-    77%{width: 78%;}
-    78%{width: 80%;}
-    79%{width: 96%;}
-    80%{width: 90%;}
-    81%{width: 80%;}
-    82%{width: 70%;}
-    83%{width: 60%;}
-    84%{width: 50%;}
-    85%{width: 40%;}
-    86%{width: 30%;}
-    87%{width: 20%;}
-    88%{width: 10%;}
-    89%{width: 10%;}
-    90%{width: 10%;}
-    91%{width: 10%;}
-    92%{width: 10%;}
-    93%{width: 10%;}
-    94%{width: 10%;}
-    95%{width: 10%;}
-    96%{width: 10%;}
-    97%{width: 10%;}
-    98%{width: 10%;}
-    99%{width: 10%;}
-    100%{width: 100%;}
+    25%{width:50%;}
+    50%{width: 100%;}
+    75%{width: 50%; opacity: 1;}
+    100%{width: 0; opacity: 0;}
+
 }
